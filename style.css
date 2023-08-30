@@ -44,7 +44,7 @@ main{
     height: calc(100vh - 100px);
     align-items: center;
     justify-content: center;
-gap: 100px;
+    gap: 50px;
 }
 .hero-img{
     max-width: 800px;
